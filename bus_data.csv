@@ -1,0 +1,15 @@
+route_id,stop_id,hour,day_type,traffic,arrival_delay
+101,1,8,weekday,3,4
+101,1,9,weekday,6,6
+101,1,18,weekday,6,10
+101,2,8,weekday,3,5
+101,2,9,weekday,6,7
+102,1,10,weekend,0,3
+102,1,11,weekend,0,4
+102,3,19,weekday,6,12
+103,2,7,weekday,0,2
+103,2,8,weekday,3,3
+103,4,20,weekday,6,14
+104,1,9,weekday,6,5
+104,1,18,weekday,6,11
+104,3,21,weekend,3,9
